@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables (secrets)
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+Model/sub_table.py
+Repository/sub_repo.py
+Schemas/sub_schm.py
+stood.py
+imp.csv
+__pycache__/
+*.pyc
