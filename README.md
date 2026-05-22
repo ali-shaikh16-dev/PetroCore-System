@@ -1,3 +1,8 @@
+🚀 PetroCore System
+
+PetroCore is a backend fuel management system built using FastAPI and PostgreSQL.
+This project helps manage petrol pump operations like fuel inventory, sales tracking, employee handling, and transaction management through secure REST APIs.
+
 # ⛽ PetroCore System
 A production-ready petrol pump management backend system built with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Alembic**, and **JWT Authentication** with **Role-Based Access Control (RBAC)**.
 
